@@ -67,17 +67,14 @@ git init
 ![init 2](images/init_git_2.png)
 
 ## Creating a file
-#### Now that I had my git directory created and initialised it was time to create my first file, I did this using the "touch" command
+#### Now that I had my git directory created and initialised it was time to create my first file, I did this using the "touch" command, I then used the "nano" command to edit the file
 ```
 touch README.md
-```
-![read me](images/git_readme.png)
-
-#### I then used the "nano" command to edit the file
-```
 nano README.md
 ```
+![read me](images/git_readme.png)
 ![edit read me](images/edit_readme.png)
+
 
 ## My first commit
 #### Now that I had created my first file I was ready to commit it, the first step was to check it's status
