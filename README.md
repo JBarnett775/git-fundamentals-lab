@@ -150,7 +150,7 @@ git switch -c improve-readme
 ```
 git push origin improve-readme
 ```
-![git push](images/git_push)
+![git push](images/git_push.png)
 
 #### On my GitHub account I then saw "Compare & Pull Request", I then created a pull request and merged the changes to the main branch.
 
