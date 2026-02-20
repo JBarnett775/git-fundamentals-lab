@@ -96,7 +96,7 @@ git commit -m "Initial commit - added README"
 ![commit](images/git_commit.png)
 
 ## Understanding Branches
-#### During development teams will use different branches to work on update, this is done to test changes before committing them directly to the main branch, I wanted to practice this concept, I did this by creating a new branch called "feature-update", I then had to switch to the new branch using the "switch" command
+#### During development, teams will use different branches to work on update, this is done to test changes before committing them directly to the main branch, I wanted to practice this concept, I did this by creating a new branch called "feature-update", I then had to switch to the new branch using the "switch" command
 
 ```
 git branch feature-update
