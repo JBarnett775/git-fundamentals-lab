@@ -39,7 +39,7 @@ git --version
 ```
 ![git init](images/git_init.png)
 
-#### Next I have to configure my global username and user email, I did this with the git config command
+#### Next I had to configure my global username and user email, I did this with the git config command
 ```
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
